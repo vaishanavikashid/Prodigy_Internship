@@ -1,4 +1,4 @@
-# Prodigy_Internship
+# Prodigy_Internship-Task-02
 # 🏠 Gurgaon Real Estate Data Analysis — Task 02
 
 ## 📌 Project Overview
